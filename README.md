@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nilanshu Bhattacharyya @charliehustlr1792
+- 👋 Hi, I’m Nilangshu Bhattacharyya @charliehustlr1792
 - 👀 I’m interested in WebDevelopment
 - 🌱 I’m currently learning JS,NodeJS,ReactJS,NextJS
 - 💞️ I’m looking to collaborate on Innovative Projects
