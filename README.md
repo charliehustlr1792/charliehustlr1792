@@ -92,3 +92,5 @@ You can click the Preview link to take a look at your changes.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
+
+[![An image of @charliehustlr1792's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/charliehustlr1792)](https://holopin.io/@charliehustlr1792)
