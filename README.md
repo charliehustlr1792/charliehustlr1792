@@ -8,7 +8,7 @@
 - 👀 I’m interested in **Web Development**  
 - 🌱 I’m currently learning **JavaScript, NodeJS, ReactJS, NextJS**  
 - 🚀 I’m looking to collaborate on **Innovative Projects**  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nilangshu-bhattacharyya-4586a8274/)
+- 📫 Reach me on [X](https://x.com/charliehustler9)
 
 ---
 
