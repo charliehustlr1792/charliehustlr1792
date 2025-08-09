@@ -4,12 +4,15 @@
 </p>
 <br>
 package main<br><br>import "fmt"<br><br>type Dev struct {<br>    Role       string<br>    Stack      []string<br>    Learning   []string<br>    Interests  []string<br>}<br><br>func main() {<br>    me := Dev{<br>        Role:     "Backend-heavy Full Stack Developer",<br>        Stack:    []string{"Go", "Next.js", "TypeScript", "Prisma", "PostgreSQL", "Redis"},<br>        Learning: []string{"DevOps", "CI/CD", "Docker", "K8s"},<br>        Interests: []string{<br>            "Building scalable SaaS",<br>            "Job queues",<br>            "Distributed systems",<br>        },<br>    }<br>    fmt.Println("Currently debugging both code and sleep schedule 🐛💤")<br>    fmt.Printf("%+v\n", me)<br>}
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/charliehustler9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nilangshubhattacharyya1234@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=charliehustlr1792&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=charliehustlr1792&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=charliehustlr1792&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charliehustlr1792&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=charliehustlr1792&theme=dark&hide_border=false)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charliehustlr1792&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=charliehustlr1792&theme=radical&no-frame=false&no-bg=true&margin-w=4)
