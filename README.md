@@ -7,11 +7,11 @@
 [![Nilangshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charliehustlr1792&theme=arctic)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charliehustlr1792&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charliehustlr1792&theme=algolia&hide_border=true&include_all_commits=true&count_private=true) 
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=charliehustlr1792&theme=dark&hide_border=false)  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=charliehustlr1792&theme=algolia&hide_border=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charliehustlr1792&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charliehustlr1792&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_progress=true)  
 
 
 <!---
