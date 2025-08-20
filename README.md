@@ -7,7 +7,7 @@
 [![Nilangshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charliehustlr1792&theme=arctic)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charliehustlr1792&theme=algolia&hide_border=true&include_all_commits=true&count_private=true) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charliehustlr1792&theme=algolia&hide_border=true&include_all_commits=false&count_private=true) 
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=charliehustlr1792&theme=algolia&hide_border=true)  
 
