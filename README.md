@@ -13,12 +13,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charliehustlr1792&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_progress=true)  
 
-
-<!---
-charliehustlr1792/charliehustlr1792 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
