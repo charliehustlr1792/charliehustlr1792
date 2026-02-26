@@ -11,7 +11,7 @@
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=charliehustlr1792&theme=algolia&hide_border=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charliehustlr1792&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_progress=true)  
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=charliehustlr1792&layout=compact&theme=tokyonight)  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
